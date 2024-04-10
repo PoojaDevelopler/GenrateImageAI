@@ -1,0 +1,15 @@
+{
+  "originHash" : "7b92cf119e2cb5f3f47fc8e732c10de4ec0758aeac337a05f8e19de34c4ebd4a",
+  "pins" : [
+    {
+      "identity" : "openaikit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MarcoDotIO/OpenAIKit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "9b93156e81491ac53967348e8a5076d323f37e34"
+      }
+    }
+  ],
+  "version" : 3
+}
